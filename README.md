@@ -1,0 +1,1 @@
+This github repository contains supplemental data tables associated with the JITC publication "Divergent transcriptional states and kinetics of circulating tumor-infiltrating lymphocyte repertoires with highly homologous T-cell receptor sequences in a patient during immunotherapy"
